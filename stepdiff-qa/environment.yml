@@ -1,0 +1,14 @@
+name: stepdiff-qa
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pythonocc-core=7.7.2
+  - click
+  - rich
+  - jinja2
+  - matplotlib
+  - pytest
+  - pytest-cov
+  - ruff
+  - mypy
